@@ -1,50 +1,50 @@
 [
   {
-    "CleanName": "CHD-CNG-GPOINT",
-    "GA Today Sales": 26.78125,
+    "UniqueName": "CHD-CNG-GPOINT",
+    "GA Today Sales": 1.140625,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "CHD-CNG-JAAMFI",
+    "UniqueName": "CHD-CNG-JAAMFI",
     "GA Today Sales": 0.0,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "CHD-CNG-JAIAMB",
-    "GA Today Sales": 63.4296875,
+    "UniqueName": "CHD-CNG-JAIAMB",
+    "GA Today Sales": 10.75,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "CHD-CNG-MJMALO",
-    "GA Today Sales": 32.46875,
-    "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
-  },
-  {
-    "CleanName": "CHD-CNG-SAMRUD",
+    "UniqueName": "CHD-CNG-MJMALO",
     "GA Today Sales": 0.0,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "CHD-CNG-VMKOTI",
-    "GA Today Sales": 37.78125,
+    "UniqueName": "CHD-CNG-SAMRUD",
+    "GA Today Sales": 3.1875,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "KRS-CNG-NUNNAX",
+    "UniqueName": "CHD-CNG-VMKOTI",
+    "GA Today Sales": 14.9296875,
+    "Date": "2025-12-13",
+    "Time": "12:15:57 PM"
+  },
+  {
+    "UniqueName": "KRS-CNG-NUNNAX",
     "GA Today Sales": 0.0,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   },
   {
-    "CleanName": "KRS-CNGI-VIJAYW",
+    "UniqueName": "KRS-CNGI-VIJAYW",
     "GA Today Sales": 0.0,
     "Date": "2025-12-13",
-    "Time": "12:10:26 PM"
+    "Time": "12:15:57 PM"
   }
 ]
