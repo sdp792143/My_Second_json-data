@@ -1,164 +1,56 @@
 [
   {
-    "UniqueName": "CHD-CNG-GPOINT",
-    "Station Wise Today Sales": 350762.296875,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "CHD-CNG-JAAMFI",
-    "Station Wise Today Sales": 606013.90625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
     "UniqueName": "CHD-CNG-JAIAMB",
-    "Station Wise Today Sales": 457133.390625,
+    "Station Wise Today Sales": 5.53125,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "CHD-CNG-MJMALO",
-    "Station Wise Today Sales": 313606.703125,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "CHD-CNG-SAMRUD",
-    "Station Wise Today Sales": 420474.8515625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "CHD-CNG-VMKOTI",
-    "Station Wise Today Sales": 436568.6953125,
+    "Station Wise Today Sales": 1.328125,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CGS-AGRIPA",
-    "Station Wise Today Sales": 562642.03125,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CGS-YANAMA",
-    "Station Wise Today Sales": 584335.734375,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNG-AKSHAY",
-    "Station Wise Today Sales": 289655.328125,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNG-DODOMA",
-    "Station Wise Today Sales": 505755.4140625,
+    "Station Wise Today Sales": 2.1875,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNG-HIMAJA",
-    "Station Wise Today Sales": 1897640.90625,
+    "Station Wise Today Sales": 3.125,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNG-KANCHI",
-    "Station Wise Today Sales": 470174.828125,
+    "Station Wise Today Sales": 5.671875,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNG-MARUTH",
-    "Station Wise Today Sales": 848421.1875,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNG-NIDAMA",
-    "Station Wise Today Sales": 1164259.21875,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNG-NUNNAX",
-    "Station Wise Today Sales": 415252.8125,
+    "Station Wise Today Sales": 6.921875,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNG-PARITA",
-    "Station Wise Today Sales": 680144.734375,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNG-PAVANS",
-    "Station Wise Today Sales": 1352387.5625,
+    "Station Wise Today Sales": 4.0625,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-GULABC",
-    "Station Wise Today Sales": 299202.390625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-IBRAHI",
-    "Station Wise Today Sales": 482698.109375,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-KANURU",
-    "Station Wise Today Sales": 626539.625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-RAHMAN",
-    "Station Wise Today Sales": 518050.9375,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-SAIROA",
-    "Station Wise Today Sales": 905625.40625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-SRIRAM",
-    "Station Wise Today Sales": 869630.953125,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNGI-SRIRAV",
-    "Station Wise Today Sales": 448180.35000000003,
+    "Station Wise Today Sales": 2.1900000000023283,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   },
   {
     "UniqueName": "KRS-CNGI-SRISAI",
-    "Station Wise Today Sales": 583159.0546875,
+    "Station Wise Today Sales": 4.84375,
     "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-SVKFIL",
-    "Station Wise Today Sales": 1026700.5625,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
-  },
-  {
-    "UniqueName": "KRS-CNGI-VIJAYW",
-    "Station Wise Today Sales": 1096056.3828125,
-    "Date": "17-12-2025",
-    "Time": "06:24:24 PM"
+    "Time": "06:26:24 PM"
   }
 ]
