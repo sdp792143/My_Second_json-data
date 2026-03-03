@@ -1,716 +1,764 @@
 [
   {
     "UniqueName": "AMR-CNG-ANSHFI",
-    "Station Wise Today Sales": 2405.4375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2209.59375,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "AMR-CNG-HINDUS",
+    "Station Wise Today Sales": 8043.109375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "AMR-CNG-LOVEYD",
-    "Station Wise Today Sales": 2712.2421875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2592.02734375,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "BLG-CGS-BELGAU",
+    "Station Wise Today Sales": 525.015625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-BPCLCO",
-    "Station Wise Today Sales": 2323.25,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1704.75,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-BUTALI",
-    "Station Wise Today Sales": 1465.234375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1214.734375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-DATTOP",
-    "Station Wise Today Sales": 2093.875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2290.125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-MAHALA",
-    "Station Wise Today Sales": 2032.15625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2259.90625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-OMSAIK",
-    "Station Wise Today Sales": 2120.25,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2312.125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNG-RAMESH",
-    "Station Wise Today Sales": 1076.40625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1162.21875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNGI-KARIKA",
-    "Station Wise Today Sales": 1059.0625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 929.375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNGI-KIWADP",
-    "Station Wise Today Sales": 1324.9375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1154.9375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNGI-PRAKAS",
-    "Station Wise Today Sales": 600.90625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 548.109375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "BLG-CNGI-RENUKA",
-    "Station Wise Today Sales": 698.53125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 736.296875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHD-CNG-GPOINT",
-    "Station Wise Today Sales": 893.5625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 832.171875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHD-CNG-JAAMFI",
-    "Station Wise Today Sales": 826.59375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 887.5625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHD-CNG-JAIAMB",
-    "Station Wise Today Sales": 1333.0390625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1120.1796875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHD-CNG-SAMRUD",
-    "Station Wise Today Sales": 1204.75,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1010.7421875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHD-CNG-VMKOTI",
-    "Station Wise Today Sales": 918.5234375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 779.1328125,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "CHK-CNG-COCOST",
+    "Station Wise Today Sales": 6036.28125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHK-CNG-MARUTH",
-    "Station Wise Today Sales": 1525.171875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 845.953125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHK-CNG-NANDIP",
-    "Station Wise Today Sales": 1103.515625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1104.859375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-GULZAR",
-    "Station Wise Today Sales": 945.890625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 633.15625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-GUPTAF",
-    "Station Wise Today Sales": 1293.15625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1014.109375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-PANDAG",
-    "Station Wise Today Sales": 676.765625,
-    "Date": "02-03-2026",
-    "Time": "06:00:01 AM"
-  },
-  {
-    "UniqueName": "CHN-CNG-SHRISA",
-    "Station Wise Today Sales": 548.0,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 583.078125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-SHRISH",
-    "Station Wise Today Sales": 1403.8499999999767,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1052.0500000000466,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-VANSHI",
-    "Station Wise Today Sales": 1013.7109375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 923.625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "CHN-CNG-WAINGA",
-    "Station Wise Today Sales": 193.53808593744998,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 402.02246093755,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "DIN-CNG-SKFUEL",
-    "Station Wise Today Sales": 1759.8125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2692.25,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "DIN-CNG-VADAKA",
-    "Station Wise Today Sales": 2045.65625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1895.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "JAB-CNG-COMMER",
-    "Station Wise Today Sales": 2010.6875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1986.9375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "JAB-CNG-OSTSBP",
-    "Station Wise Today Sales": 1274.3203125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1105.03125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "JAB-CNG-SHANKA",
-    "Station Wise Today Sales": 1066.53125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 983.84375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CGS-KHAMAM",
-    "Station Wise Today Sales": 1667.875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1876.5,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-JANAPR",
-    "Station Wise Today Sales": 1059.234375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1064.4765625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-MADHIR",
-    "Station Wise Today Sales": 532.171875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 662.60546875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-NAVADF",
-    "Station Wise Today Sales": 1826.9453125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1925.5546875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-PALAWA",
-    "Station Wise Today Sales": 1406.4375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1372.671875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-RAGHAV",
-    "Station Wise Today Sales": 2000.6600000000326,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1891.1999999999534,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-SRFILL",
-    "Station Wise Today Sales": 1189.640625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1244.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-TSRTCK",
-    "Station Wise Today Sales": 1518.171875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1434.25,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KMM-CNG-VANIAU",
-    "Station Wise Today Sales": 1397.345703125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1071.564453125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CGS-AGRIPA",
-    "Station Wise Today Sales": 503.796875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 735.203125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CGS-YANAMA",
-    "Station Wise Today Sales": 1108.859375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1342.421875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-AKSHAY",
-    "Station Wise Today Sales": 474.359375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 722.765625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-DODOMA",
-    "Station Wise Today Sales": 1571.8359375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2013.8984375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-HIMAJA",
-    "Station Wise Today Sales": 2123.28125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 4250.125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-KANCHI",
-    "Station Wise Today Sales": 835.328125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 970.53125,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "KRS-CNG-MARUTH",
+    "Station Wise Today Sales": 959.75,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-NUNNAX",
-    "Station Wise Today Sales": 455.453125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 580.671875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-PARITA",
-    "Station Wise Today Sales": 733.6875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 891.5625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNG-PAVANS",
-    "Station Wise Today Sales": 1708.0625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1651.5,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNGI-KANURU",
-    "Station Wise Today Sales": 1508.0625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1323.46875,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "KRS-CNGI-RAHMAN",
+    "Station Wise Today Sales": 1547.890625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNGI-SAIROA",
-    "Station Wise Today Sales": 927.4375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1020.875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNGI-SRIRAM",
-    "Station Wise Today Sales": 1317.8125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1230.125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNGI-SRIRAV",
-    "Station Wise Today Sales": 935.9400000000023,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1104.5199999999895,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "KRS-CNGI-SVKFIL",
-    "Station Wise Today Sales": 816.21875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 716.46875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CGS-MAHABB",
-    "Station Wise Today Sales": 293.296875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 687.34375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-DKRALI",
-    "Station Wise Today Sales": 1247.9609375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 721.96875,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "MHB-CNG-HAJIGF",
+    "Station Wise Today Sales": 12998.2822265625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-JEDCHA",
-    "Station Wise Today Sales": 1920.25,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1501.0625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-SARADH",
-    "Station Wise Today Sales": 311.984375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 726.984375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-SRIALA",
-    "Station Wise Today Sales": 724.375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1018.375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-SRIRAM",
-    "Station Wise Today Sales": 625.171875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 663.5078125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-SUBHAM",
-    "Station Wise Today Sales": 1337.6875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1686.84375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-THIRUM",
-    "Station Wise Today Sales": 1226.15625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1429.65625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-TSAGRO",
-    "Station Wise Today Sales": 594.6328125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 675.5390625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "MHB-CNG-VASUAU",
-    "Station Wise Today Sales": 495.46875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 457.078125,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "MHB-CNGI-AYYAPP",
+    "Station Wise Today Sales": 5179.015625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NEE-CNG-ANANTA",
-    "Station Wise Today Sales": 860.484375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 686.46875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NEE-CNG-GANESH",
-    "Station Wise Today Sales": 1808.158203125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1347.943359375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NEE-CNG-KAHALI",
-    "Station Wise Today Sales": 1062.84375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1320.4375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NEE-CNG-PASHUP",
-    "Station Wise Today Sales": 2979.125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2901.125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-CHITYA",
-    "Station Wise Today Sales": 1128.53125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 3352.1875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-DURGAB",
-    "Station Wise Today Sales": 1133.359375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1065.9375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-HARIFS",
-    "Station Wise Today Sales": 946.625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1223.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-HIGHWA",
-    "Station Wise Today Sales": 957.28125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1079.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-HITECH",
-    "Station Wise Today Sales": 609.36328125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 472.42578125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-KAMALA",
-    "Station Wise Today Sales": 1033.78125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 783.21875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-KARSHA",
-    "Station Wise Today Sales": 803.875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 490.828125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-KATTAN",
-    "Station Wise Today Sales": 1098.375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1011.96875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-MANOHA",
-    "Station Wise Today Sales": 1802.875,
-    "Date": "02-03-2026",
-    "Time": "06:00:01 AM"
-  },
-  {
-    "UniqueName": "NGD-CNG-NEETHU",
-    "Station Wise Today Sales": 697.0,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1394.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-RPFILL",
-    "Station Wise Today Sales": 113.640625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 110.7998046875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-SHIVAS",
-    "Station Wise Today Sales": 987.875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 755.484375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-SRIBAL",
-    "Station Wise Today Sales": 1776.6015625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 794.8984375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "NGD-CNG-SRIVEN",
-    "Station Wise Today Sales": 1140.03125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 912.375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "PER-CNG-JAYALA",
-    "Station Wise Today Sales": 681.2109375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 742.0,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "PER-CNG-NATARA",
-    "Station Wise Today Sales": 905.34375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 923.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CGS-BURUGU",
-    "Station Wise Today Sales": 803.5625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 676.53125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-COCOBP",
-    "Station Wise Today Sales": 1182.65625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 948.59375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-GAMPAX",
-    "Station Wise Today Sales": 569.78125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 653.140625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-HYDAIR",
-    "Station Wise Today Sales": 2790.46875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2660.9375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-KOYAMS",
-    "Station Wise Today Sales": 2026.70703125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2570.53515625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-SAIFIL",
-    "Station Wise Today Sales": 1260.09375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1517.484375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-SARYFS",
-    "Station Wise Today Sales": 1687.40625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1526.015625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-SGPATE",
-    "Station Wise Today Sales": 787.21875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1086.1875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-SHARFN",
-    "Station Wise Today Sales": 3511.984375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 3700.84375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-SRISAI",
-    "Station Wise Today Sales": 1282.59375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1281.46875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "RDY-CNG-TOTABA",
-    "Station Wise Today Sales": 2023.4899999999907,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2237.4100000000326,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "SAG-CNG-GITAFI",
-    "Station Wise Today Sales": 474.875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 542.2265625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "SAG-CNG-MAAPET",
-    "Station Wise Today Sales": 1190.359375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1013.296875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "SAG-CNG-NARMAD",
-    "Station Wise Today Sales": 1819.09375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1496.015625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "SAG-CNG-RUDRAK",
-    "Station Wise Today Sales": 775.21875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 988.75,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "THA-CNG-MATHUR",
+    "Station Wise Today Sales": 8358.1328125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THA-CNG-MPVRPE",
-    "Station Wise Today Sales": 1907.703125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1704.34375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THA-CNG-SRIKRI",
-    "Station Wise Today Sales": 684.46875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 842.15625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THI-CNG-ADAMOD",
-    "Station Wise Today Sales": 1211.3125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1151.421875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THI-CNG-ANNAPO",
-    "Station Wise Today Sales": 2815.125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2834.625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THI-CNG-MENAKA",
-    "Station Wise Today Sales": 1505.65625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1016.59375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THI-CNG-SRIBAL",
-    "Station Wise Today Sales": 2126.8125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1409.0625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "THI-CNG-SRIMUR",
-    "Station Wise Today Sales": 1175.1875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 881.640625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CGS-TUMKUR",
-    "Station Wise Today Sales": 662.2265625,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 711.6171875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-BALAJI",
-    "Station Wise Today Sales": 2711.8125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2350.8125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-GANGAH",
-    "Station Wise Today Sales": 798.21972656255,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 571.8901367187,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-KALPAT",
-    "Station Wise Today Sales": 919.8984375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1046.328125,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-MANJUN",
-    "Station Wise Today Sales": 3581.55078125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2060.23046875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-RAJNIS",
-    "Station Wise Today Sales": 2825.3125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2944.796875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-SHANPL",
-    "Station Wise Today Sales": 1590.8199999999488,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1138.8175000000047,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
-    "UniqueName": "TMK-CNG-SRIRAN",
-    "Station Wise Today Sales": 983.1171875,
-    "Date": "02-03-2026",
+    "UniqueName": "TMK-CNG-SKYLIN",
+    "Station Wise Today Sales": 5014.375,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-SUVARA",
-    "Station Wise Today Sales": -8067514.96875,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 977.21875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "TMK-CNG-VINAYA",
-    "Station Wise Today Sales": 2869.09375,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2540.40625,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "WRG-CNG-NIDIFS",
+    "Station Wise Today Sales": 7950.84765625,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "WRG-CNG-RAMANA",
-    "Station Wise Today Sales": 935035.9099999999,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 2210.8800000000338,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "WRG-CNG-SUNITH",
-    "Station Wise Today Sales": 658.8125,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 691.609375,
+    "Date": "03-03-2026",
+    "Time": "06:00:01 AM"
+  },
+  {
+    "UniqueName": "WRG-CNG-VISHWA",
+    "Station Wise Today Sales": 4010.546875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   },
   {
     "UniqueName": "WRG-CNGI-MAMNOO",
-    "Station Wise Today Sales": 1560.5,
-    "Date": "02-03-2026",
+    "Station Wise Today Sales": 1234.6875,
+    "Date": "03-03-2026",
     "Time": "06:00:01 AM"
   }
 ]
